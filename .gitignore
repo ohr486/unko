@@ -12,3 +12,6 @@
 
 # ignore Gemfile.lock
 Gemfile.lock
+
+# for ide
+.ideavimrc
